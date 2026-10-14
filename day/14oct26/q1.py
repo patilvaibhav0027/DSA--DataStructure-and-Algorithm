@@ -20,7 +20,7 @@ class SCLL:
             temp.next=new_node
         new_node.next=self.head
     
-    def insert(self, new_node, pos):
+    def insert(self, new_node, pos): 
         if pos == 1:
             new_node.next = self.head
             self.head = new_node
