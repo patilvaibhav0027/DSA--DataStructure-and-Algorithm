@@ -40,11 +40,3 @@ b1.insert(Node(0))
 b1.insert(Node(65))
 b1.insert(Node(300))
 b1.inorder(b1.root)
-
-
-
-
-
-
-
-    
